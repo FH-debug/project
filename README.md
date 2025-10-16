@@ -1,7 +1,5 @@
 # AI Study Notes Generator 📚
 
-Video Demo: https://youtu.be/0o1s1O7-G_w
-
 An AI-powered web application that automatically generates quiz questions from uploaded study notes using agentic AI workflows. Built with Django, LangGraph, and Google's Gemini API.
 
 ## 🎯 Features

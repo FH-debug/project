@@ -55,3 +55,10 @@ def generate_questions_view(request, id):
 
     return redirect('details', id=id)
 
+# The details view does the following:
+# Gets the id as an argument.
+# Uses the id to locate the correct record in the Note_set table.
+# loads the details.html template.
+# Creates an object containing the note_set.
+# Sends the object to the template.
+# Outputs the HTML that is rendered by the template.
